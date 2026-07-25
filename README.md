@@ -1,45 +1,69 @@
-Relevant Area: Healthcare
+Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
 
-Problem Identified:
+Experiment: Develop a comprehensive report for the following exercises:
 
-Many patients find it difficult to identify common diseases based on symptoms and do not know when to consult a doctor.
-Prompt Stage	Prompt
-Basic Prompt	Suggest a solution for people who cannot identify common diseases based on their symptoms.
-Detailed Prompt	You are a healthcare assistant. Suggest an AI-based system that helps users identify common illnesses from symptoms. Explain the features, benefits, and limitations.
-Output-Defined Prompt	You are a healthcare AI expert. Design an AI-powered Symptom Checker. The output should include: 1. Problem Statement 2. Proposed Solution 3. Features 4. Benefits 5. Limitations 6. Future Improvements. Present the answer in clear headings and bullet points.
-AI Tool Used
-ChatGPT (OpenAI)
-Output
+  1. Explain the foundational concepts of Generative AI, Generative Model and it's types.
+  2. 2024 AI tools.
+  3. Explain what an LLM is and how it is built.
+  4. Create a Timeline Chart for defining the Evolution of AI
+     
+Algorithm:
 
-AI-Powered Symptom Checker
+Step 1: Define Scope and Objectives
+  1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 
-1. Problem Statement
-People often ignore symptoms or search unreliable websites, leading to delayed treatment or unnecessary panic.
-2. Proposed Solution
-Develop an AI-powered symptom checker where users enter symptoms, age, and medical history. The AI analyses the information and suggests possible health conditions with advice on whether medical consultation is needed.
-3. Features
-Symptom-based disease prediction
-Health risk assessment
-Medicine and first-aid suggestions (general guidance)
-Doctor consultation recommendation
-Health record tracking
-4. Benefits
-Quick preliminary health assessment
-Saves time
-Improves health awareness
-Supports early detection of common illnesses
-Available 24/7
-5. Limitations
-Cannot replace a qualified doctor
-Accuracy depends on user-provided information
-May not detect rare or complex diseases
-6. Future Improvements
-Integration with wearable devices
-Voice-based symptom input
-Multilingual support
-Personalised health recommendations
-Emergency alert system
+  1.2 Set the target audience level (e.g., students, professionals)
 
-Conclusion:
+  1.3 Draft a list of core topics to cover
 
-An AI-powered symptom checker improves access to basic healthcare guidance, saves time, and encourages early medical consultation while complementing—not replacing—professional medical care.
+Step 2: Create Report Skeleton/Structure
+
+  2.1 Title Page
+
+  2.2 Abstract or Executive Summary
+
+  2.3 Table of Contents
+
+  2.4 Introduction
+
+  2.5 Main Body Sections:
+
+  • Introduction to AI and Machine Learning
+
+  • What is Generative AI?
+
+  • Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
+
+  • Introduction to Large Language Models (LLMs)
+
+  • Architecture of LLMs (e.g., Transformer, GPT, BERT)
+
+  • Training Process and Data Requirements
+
+  • Use Cases and Applications (Chatbots, Content Generation, etc.)
+
+  • Limitations and Ethical Considerations
+
+  • Future Trends
+
+2.6 Conclusion
+
+2.7 References
+
+Step 3: Research and Data Collection
+
+3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI) 3.2 Extract definitions, explanations, diagrams, and examples 3.3 Cite all sources properly
+
+Step 4: Content Development 4.1 Write each section in clear, simple language 4.2 Include diagrams, figures, and charts where needed 4.3 Highlight important terms and definitions 4.4 Use examples and real-world analogies for better understanding
+
+Step 5: Visual and Technical Enhancement 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4) 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting 5.3 Add code snippets or pseudocode for LLM working (optional)
+
+Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ensure logical flow and consistency 6.3 Validate technical accuracy 6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
+
+Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
+
+
+Output:
+Output: https://i.supaimg.com/9bdf4ca7-9d39-4583-bbcb-ef90db5d21be/25c13ba0-ae08-4ed8-9973-2467f53fdbe1.jpg https://i.supaimg.com/9bdf4ca7-9d39-4583-bbcb-ef90db5d21be/a56d5895-b319-40e9-9db0-4e26ecac73e2.jpg
+
+Result:
